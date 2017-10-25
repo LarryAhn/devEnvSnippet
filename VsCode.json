@@ -1,0 +1,12 @@
+{
+    "editor.fontFamily": "Monaco",
+    "editor.fontSize": 14,
+    "editor.tabSize": 2,
+    "editor.minimap.enabled": true,
+    "terminal.integrated.fontFamily": "Roboto Mono for Powerline",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.cursorStyle": "underline",
+    "terminal.integrated.scrollback": 10000,
+    "workbench.activityBar.visible": true,
+    "files.autoSave": "afterDelay"
+}
