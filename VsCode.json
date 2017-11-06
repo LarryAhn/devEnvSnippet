@@ -8,5 +8,6 @@
     "terminal.integrated.cursorStyle": "underline",
     "terminal.integrated.scrollback": 10000,
     "workbench.activityBar.visible": true,
-    "files.autoSave": "afterDelay"
+    "files.autoSave": "afterDelay",
+    "window.title": "${activeEditorMedium}${separator}${rootName}"
 }
